@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\user\\Student\\laba6\\6,1_\u0440\u0435\u043A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|D:\\user\\Student\\laba6\\6,1_\u0440\u0435\u043A\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063AEEE3-A2D2-48B6-AF1E-2C4C0E5A1E9B}|6,1_\u0440\u0435\u043A\\6,1_\u0440\u0435\u043A.vcxproj|D:\\user\\Student\\laba6\\6,1_\u0440\u0435\u043A\\6,1_\u0440\u0435\u043A\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{063AEEE3-A2D2-48B6-AF1E-2C4C0E5A1E9B}|6,1_\u0440\u0435\u043A\\6,1_\u0440\u0435\u043A.vcxproj|solutionrelative:6,1_\u0440\u0435\u043A\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\user\\Student\\laba6\\6,1_\u0440\u0435\u043A\\6,1_\u0440\u0435\u043A\\Source.cpp",
+              "RelativeDocumentMoniker": "6,1_\u0440\u0435\u043A\\Source.cpp",
+              "ToolTip": "D:\\user\\Student\\laba6\\6,1_\u0440\u0435\u043A\\6,1_\u0440\u0435\u043A\\Source.cpp",
+              "RelativeToolTip": "6,1_\u0440\u0435\u043A\\Source.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T12:54:04.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\user\\Student\\laba6\\6,1_\u0440\u0435\u043A\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\user\\Student\\laba6\\6,1_\u0440\u0435\u043A\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-26T13:12:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

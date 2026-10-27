@@ -1,0 +1,16 @@
+﻿  UnitTest1.cpp
+D:\user\Student\laba6\6,1_рек\UnitTest1\UnitTest1.cpp(7,52): error C2572: 'CountRec': redefinition of default argument: parameter 1
+  (compiling source file '/UnitTest1.cpp')
+      D:\user\Student\laba6\6,1_рек\6,1_рек\Source.cpp(33,5):
+      see declaration of 'CountRec'
+  
+D:\user\Student\laba6\6,1_рек\UnitTest1\UnitTest1.cpp(8,50): error C2572: 'SumRec': redefinition of default argument: parameter 1
+  (compiling source file '/UnitTest1.cpp')
+      D:\user\Student\laba6\6,1_рек\6,1_рек\Source.cpp(42,5):
+      see declaration of 'SumRec'
+  
+D:\user\Student\laba6\6,1_рек\UnitTest1\UnitTest1.cpp(9,54): error C2572: 'ZeroElementsRec': redefinition of default argument: parameter 1
+  (compiling source file '/UnitTest1.cpp')
+      D:\user\Student\laba6\6,1_рек\6,1_рек\Source.cpp(51,6):
+      see declaration of 'ZeroElementsRec'
+  
